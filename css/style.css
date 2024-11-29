@@ -25,7 +25,7 @@ footer .logo {
     color:#4d5ae5;
 }
 
-nav, address {
+.adrress-a a{
     font-size: 16px;
     color: #434455;
 }
@@ -66,7 +66,7 @@ h3 {
 background-color: #404BBF
 }
 
-.header-nav li a {
+.header-nav a {
     color: #2E2F42;
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -136,7 +136,7 @@ address {
     color:#2e2f42;
 }
 
-.h-portfolio, .teamh {
+.h-portfolio, .teamh, .h-ourteam {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
@@ -144,7 +144,7 @@ address {
     color:#2e2f42;
 }
 
-.h-ourteam {
+.teamh {
     line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
