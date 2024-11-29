@@ -1,0 +1,64 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color:#2E2F42;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.logo {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+nav, address {
+    font-size: 16px;
+    color:
+}
+
+h1 {
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.section1 {
+    background: #2E2F42;
+    color:#FFFFFF;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+}
+
+.order-button:hover {
+    background-color: #404BBF;
+}
+
+.header-nav a {
+    color: #2E2F42;
+}
+
+.header-nav a:hover {
+    color: #404BBF;
+}
+
+.header-nav a:active {
+    color: #404BBF;
+}
+
+.header-address a {
+    color: #434455;
+}
+.header-address a:hover {
+    color:#404BBF;
+}
+
+h1 {
+    line-height: 0.9;
+}
