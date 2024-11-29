@@ -35,6 +35,7 @@ h3 {
 
 .order-button {
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 
 .order-button:hover {
@@ -73,8 +74,15 @@ h3 {
 }
 
 .logo span {
-    color:#4D5AE5 ;
+    color:#4D5AE5;
+    font-family: "Raleway", sans-serif;
+
 }
+ 
+.logo {
+    font-weight: 700;
+}
+
 .section3 {
     background-color:#F4F4FD;
 }
