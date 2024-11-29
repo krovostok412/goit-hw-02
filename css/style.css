@@ -136,12 +136,20 @@ address {
     color:#2e2f42;
 }
 
-.h-ourteam, .h-portfolio, .teamh {
+.h-portfolio, .teamh {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+}
+
+.h-ourteam {
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .sec-twoh {
