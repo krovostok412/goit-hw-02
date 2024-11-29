@@ -25,7 +25,7 @@ footer .logo {
     color:#4d5ae5;
 }
 
-.adrress-a a{
+.header-navul .header-nav .adrress-a {
     font-size: 16px;
     color: #434455;
 }
@@ -136,7 +136,7 @@ address {
     color:#2e2f42;
 }
 
-.h-portfolio, .teamh, .h-ourteam {
+.h-portfolio, .h-ourteam {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
@@ -144,9 +144,10 @@ address {
     color:#2e2f42;
 }
 
-.teamh {
+.section-team ul li .teamh {
     line-height: 1.2;
-    text-align: center;
+    font-weight: 500;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
