@@ -10,7 +10,6 @@ body {
 .logo {
     font-size: 18px;
     text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -18,12 +17,8 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
-.logo-web {
-    color:#4D5AE5;
-}
-
-header .logo {
-    color: #2E2F42;
+.logo-studio {
+    color:#2E2F42;
 }
 
 footer .logo {
@@ -67,6 +62,9 @@ h3 {
 .order-button:hover {
     background-color: #404BBF;
 }
+.order-button:focus {
+background-color: #404BBF
+}
 
 .header-nav li a {
     color: #2E2F42;
@@ -84,7 +82,6 @@ h3 {
 
 .header-nav li a:focus {
     color: #404bbf;
-    background-color: #404BBF;
 }
 
 .header-address a {
