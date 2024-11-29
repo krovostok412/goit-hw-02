@@ -72,28 +72,20 @@ background-color: #404BBF
     letter-spacing: 0.02em;
 }
 
-.header-nav li a:hover {
+.header-nav a:hover {
     color: #404BBF;
 }
 
-.header-nav li a:active {
+.header-nav a:active {
     color: #404BBF;
 }
 
-.header-nav li a:focus {
+.header-nav a:focus {
     color: #404bbf;
-}
-
-.header-address a {
-    color: #434455;
 }
 
 address {
     font-style: normal;
-}
-
-.header-address a:hover {
-    color:#404BBF;
 }
 
 .section-team {
@@ -112,7 +104,7 @@ address {
     color: #F4F4FD;
 }
 
-.sec-two-ul {
+.sec-twoul {
     letter-spacing: 0.02em;
     color:#434455;
 }
@@ -140,11 +132,18 @@ address {
     color:#2e2f42;
 }
 
-.h-our-team, .h-portfolio, .sec-two-h, .h-our-team {
+.h-ourteam, .h-portfolio {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2e2f42;
+}
+
+.sec-twoh {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color:#2e2f42;
 }
 
