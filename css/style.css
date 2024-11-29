@@ -109,6 +109,10 @@ address {
     color:#434455;
 }
 
+.adrress-li {
+    color:#434455;
+}
+
 .section-team li {
     background-color:#FFFFFF;
 }
@@ -124,7 +128,7 @@ address {
     color: #434455;
 }
 
-.section-portfolio h3 {
+.sec-twoulh {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -132,7 +136,7 @@ address {
     color:#2e2f42;
 }
 
-.h-ourteam, .h-portfolio {
+.h-ourteam, .h-portfolio, .teamh {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
