@@ -14,9 +14,7 @@ body {
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-}
-
-.logo {
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
 }
 
@@ -29,7 +27,7 @@ header .logo {
 }
 
 footer .logo {
-    color:#F4F4FD;
+    color:#4d5ae5;
 }
 
 nav, address {
@@ -70,22 +68,23 @@ h3 {
     background-color: #404BBF;
 }
 
-.header-nav li {
+.header-nav li a {
     color: #2E2F42;
     font-weight: 500;
     letter-spacing: 0.02em;
 }
 
-.header-nav a:hover {
+.header-nav li a:hover {
     color: #404BBF;
 }
 
-.header-nav a:active {
+.header-nav li a:active {
     color: #404BBF;
 }
 
-.header-nav a:focus {
+.header-nav li a:focus {
     color: #404bbf;
+    background-color: #404BBF;
 }
 
 .header-address a {
@@ -100,8 +99,12 @@ address {
     color:#404BBF;
 }
 
-.section-team{
+.section-team {
     background-color:#F4F4FD;
+}
+
+.section-team p {
+    font-size: 16px;
 }
 
 .footer {
@@ -140,16 +143,21 @@ address {
     color:#2e2f42;
 }
 
-.sec-two-h {
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.h-our-team, .h-portfolio {
+.h-our-team, .h-portfolio, .sec-two-h, .h-our-team {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+}
+
+.portfolio-ul p {
+    letter-spacing: 0.02em;
+}
+
+footer .studio-web {
+    color: #f4f4fd;
+}
+.footer p {
+    letter-spacing: 0.02em
 }
