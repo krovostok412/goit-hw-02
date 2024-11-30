@@ -25,7 +25,7 @@ footer .logo {
     color:#4d5ae5;
 }
 
-.header-navul .header-nav .adrress-a {
+.header-nav .adrress-a {
     font-size: 16px;
     color: #434455;
 }
@@ -153,7 +153,7 @@ address {
     color: #2e2f42;
 }
 
-.sec-twoh {
+.sec-twoh, .portfolio-h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
